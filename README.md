@@ -5,5 +5,8 @@ This repository contains my modifications to the "Aksharyogini2" font for fixing
 - Alteration of the "Devanagari Chandra A" (ॲ) character to correct the malformed outline.
 - Removal of the Latin-1 Suppliment block due to it's buggy implementation.
 
+### Editing the *.sfd* source file
+Editing the source file and building new modified font file is easily possible in any standard font editing software like FontForge, FontLab etc.
+
 ### License
 The font was originally licensed under SIL OFL 1.1. My new modified font "AksharyoginiMarathi" is also licensed under this same license.
